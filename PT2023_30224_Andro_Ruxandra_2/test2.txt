@@ -1,0 +1,483 @@
+Timp 0
+ Clientii care stau la coada: Task{id=49, arrivalTime=2, serviceTime=3}Task{id=11, arrivalTime=3, serviceTime=2}Task{id=22, arrivalTime=3, serviceTime=1}Task{id=32, arrivalTime=4, serviceTime=5}Task{id=46, arrivalTime=5, serviceTime=7}Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 1
+ Clientii care stau la coada: Task{id=49, arrivalTime=2, serviceTime=3}Task{id=11, arrivalTime=3, serviceTime=2}Task{id=22, arrivalTime=3, serviceTime=1}Task{id=32, arrivalTime=4, serviceTime=5}Task{id=46, arrivalTime=5, serviceTime=7}Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 2
+ Clientii care stau la coada: Task{id=11, arrivalTime=3, serviceTime=2}Task{id=22, arrivalTime=3, serviceTime=1}Task{id=32, arrivalTime=4, serviceTime=5}Task{id=46, arrivalTime=5, serviceTime=7}Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=49, arrivalTime=2, serviceTime=3} 
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 3
+ Clientii care stau la coada: Task{id=32, arrivalTime=4, serviceTime=5}Task{id=46, arrivalTime=5, serviceTime=7}Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=49, arrivalTime=2, serviceTime=2} 
+Coada 2: Task{id=11, arrivalTime=3, serviceTime=2} 
+Coada 3: Task{id=22, arrivalTime=3, serviceTime=1} 
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 4
+ Clientii care stau la coada: Task{id=46, arrivalTime=5, serviceTime=7}Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=49, arrivalTime=2, serviceTime=1} 
+Coada 2: Task{id=11, arrivalTime=3, serviceTime=1} 
+Coada 3: Casa inchisa!
+Coada 4: Task{id=32, arrivalTime=4, serviceTime=5} 
+Coada 5: Casa inchisa!
+
+Timp 5
+ Clientii care stau la coada: Task{id=17, arrivalTime=6, serviceTime=1}Task{id=28, arrivalTime=6, serviceTime=4}Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=7} 
+Coada 4: Task{id=32, arrivalTime=4, serviceTime=4} 
+Coada 5: Casa inchisa!
+
+Timp 6
+ Clientii care stau la coada: Task{id=4, arrivalTime=7, serviceTime=7}Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=17, arrivalTime=6, serviceTime=1} 
+Coada 2: Task{id=28, arrivalTime=6, serviceTime=4} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=6} 
+Coada 4: Task{id=32, arrivalTime=4, serviceTime=3} 
+Coada 5: Casa inchisa!
+
+Timp 7
+ Clientii care stau la coada: Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Casa inchisa!
+Coada 2: Task{id=28, arrivalTime=6, serviceTime=3} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=5} 
+Coada 4: Task{id=32, arrivalTime=4, serviceTime=2} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=7} 
+
+Timp 8
+ Clientii care stau la coada: Task{id=1, arrivalTime=9, serviceTime=3}Task{id=34, arrivalTime=9, serviceTime=6}Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Casa inchisa!
+Coada 2: Task{id=28, arrivalTime=6, serviceTime=2} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=4} 
+Coada 4: Task{id=32, arrivalTime=4, serviceTime=1} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=6} 
+
+Timp 9
+ Clientii care stau la coada: Task{id=19, arrivalTime=10, serviceTime=7}Task{id=42, arrivalTime=10, serviceTime=5}Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=1, arrivalTime=9, serviceTime=3} 
+Coada 2: Task{id=28, arrivalTime=6, serviceTime=1} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=3} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=6} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=5} 
+
+Timp 10
+ Clientii care stau la coada: Task{id=27, arrivalTime=11, serviceTime=1}Task{id=47, arrivalTime=11, serviceTime=7}Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=1, arrivalTime=9, serviceTime=2} Task{id=42, arrivalTime=10, serviceTime=5} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=7} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=2} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=5} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=4} 
+
+Timp 11
+ Clientii care stau la coada: Task{id=23, arrivalTime=12, serviceTime=3}Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=1, arrivalTime=9, serviceTime=1} Task{id=42, arrivalTime=10, serviceTime=5} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=6} 
+Coada 3: Task{id=46, arrivalTime=5, serviceTime=1} Task{id=27, arrivalTime=11, serviceTime=1} Task{id=47, arrivalTime=11, serviceTime=7} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=4} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=3} 
+
+Timp 12
+ Clientii care stau la coada: Task{id=10, arrivalTime=13, serviceTime=5}Task{id=30, arrivalTime=13, serviceTime=6}Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=42, arrivalTime=10, serviceTime=5} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=5} 
+Coada 3: Task{id=27, arrivalTime=11, serviceTime=1} Task{id=47, arrivalTime=11, serviceTime=7} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=3} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=2} Task{id=23, arrivalTime=12, serviceTime=3} 
+
+Timp 13
+ Clientii care stau la coada: Task{id=20, arrivalTime=14, serviceTime=7}Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=42, arrivalTime=10, serviceTime=4} Task{id=30, arrivalTime=13, serviceTime=6} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=4} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=7} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=2} Task{id=10, arrivalTime=13, serviceTime=5} 
+Coada 5: Task{id=4, arrivalTime=7, serviceTime=1} Task{id=23, arrivalTime=12, serviceTime=3} 
+
+Timp 14
+ Clientii care stau la coada: Task{id=8, arrivalTime=15, serviceTime=2}Task{id=33, arrivalTime=15, serviceTime=2}Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=42, arrivalTime=10, serviceTime=3} Task{id=30, arrivalTime=13, serviceTime=6} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=3} Task{id=20, arrivalTime=14, serviceTime=7} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=6} 
+Coada 4: Task{id=34, arrivalTime=9, serviceTime=1} Task{id=10, arrivalTime=13, serviceTime=5} 
+Coada 5: Task{id=23, arrivalTime=12, serviceTime=3} 
+
+Timp 15
+ Clientii care stau la coada: Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=42, arrivalTime=10, serviceTime=2} Task{id=30, arrivalTime=13, serviceTime=6} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=2} Task{id=20, arrivalTime=14, serviceTime=7} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=5} 
+Coada 4: Task{id=10, arrivalTime=13, serviceTime=5} 
+Coada 5: Task{id=23, arrivalTime=12, serviceTime=2} Task{id=8, arrivalTime=15, serviceTime=2} Task{id=33, arrivalTime=15, serviceTime=2} 
+
+Timp 16
+ Clientii care stau la coada: Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=42, arrivalTime=10, serviceTime=1} Task{id=30, arrivalTime=13, serviceTime=6} 
+Coada 2: Task{id=19, arrivalTime=10, serviceTime=1} Task{id=20, arrivalTime=14, serviceTime=7} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=4} 
+Coada 4: Task{id=10, arrivalTime=13, serviceTime=4} 
+Coada 5: Task{id=23, arrivalTime=12, serviceTime=1} Task{id=8, arrivalTime=15, serviceTime=2} Task{id=33, arrivalTime=15, serviceTime=2} 
+
+Timp 17
+ Clientii care stau la coada: Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=6} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=7} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=3} 
+Coada 4: Task{id=10, arrivalTime=13, serviceTime=3} 
+Coada 5: Task{id=8, arrivalTime=15, serviceTime=2} Task{id=33, arrivalTime=15, serviceTime=2} 
+
+Timp 18
+ Clientii care stau la coada: Task{id=43, arrivalTime=19, serviceTime=6}Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=5} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=6} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=2} 
+Coada 4: Task{id=10, arrivalTime=13, serviceTime=2} 
+Coada 5: Task{id=8, arrivalTime=15, serviceTime=1} Task{id=33, arrivalTime=15, serviceTime=2} 
+
+Timp 19
+ Clientii care stau la coada: Task{id=5, arrivalTime=20, serviceTime=5}Task{id=31, arrivalTime=20, serviceTime=5}Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=4} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=5} 
+Coada 3: Task{id=47, arrivalTime=11, serviceTime=1} Task{id=43, arrivalTime=19, serviceTime=6} 
+Coada 4: Task{id=10, arrivalTime=13, serviceTime=1} 
+Coada 5: Task{id=33, arrivalTime=15, serviceTime=2} 
+
+Timp 20
+ Clientii care stau la coada: Task{id=36, arrivalTime=21, serviceTime=7}Task{id=44, arrivalTime=21, serviceTime=4}Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=3} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=6} 
+Coada 4: Task{id=5, arrivalTime=20, serviceTime=5} 
+Coada 5: Task{id=33, arrivalTime=15, serviceTime=1} Task{id=31, arrivalTime=20, serviceTime=5} 
+
+Timp 21
+ Clientii care stau la coada: Task{id=7, arrivalTime=22, serviceTime=1}Task{id=37, arrivalTime=22, serviceTime=1}Task{id=48, arrivalTime=22, serviceTime=2}Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=2} Task{id=36, arrivalTime=21, serviceTime=7} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=3} Task{id=44, arrivalTime=21, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=5} 
+Coada 4: Task{id=5, arrivalTime=20, serviceTime=4} 
+Coada 5: Task{id=31, arrivalTime=20, serviceTime=5} 
+
+Timp 22
+ Clientii care stau la coada: Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=30, arrivalTime=13, serviceTime=1} Task{id=36, arrivalTime=21, serviceTime=7} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=2} Task{id=44, arrivalTime=21, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=4} Task{id=37, arrivalTime=22, serviceTime=1} 
+Coada 4: Task{id=5, arrivalTime=20, serviceTime=3} Task{id=7, arrivalTime=22, serviceTime=1} Task{id=48, arrivalTime=22, serviceTime=2} 
+Coada 5: Task{id=31, arrivalTime=20, serviceTime=4} 
+
+Timp 23
+ Clientii care stau la coada: Task{id=6, arrivalTime=24, serviceTime=7}Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=7} 
+Coada 2: Task{id=20, arrivalTime=14, serviceTime=1} Task{id=44, arrivalTime=21, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=3} Task{id=37, arrivalTime=22, serviceTime=1} 
+Coada 4: Task{id=5, arrivalTime=20, serviceTime=2} Task{id=7, arrivalTime=22, serviceTime=1} Task{id=48, arrivalTime=22, serviceTime=2} 
+Coada 5: Task{id=31, arrivalTime=20, serviceTime=3} 
+
+Timp 24
+ Clientii care stau la coada: Task{id=2, arrivalTime=25, serviceTime=1}Task{id=12, arrivalTime=25, serviceTime=4}Task{id=35, arrivalTime=25, serviceTime=3}Task{id=40, arrivalTime=25, serviceTime=4}Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=6} 
+Coada 2: Task{id=44, arrivalTime=21, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=2} Task{id=37, arrivalTime=22, serviceTime=1} 
+Coada 4: Task{id=5, arrivalTime=20, serviceTime=1} Task{id=7, arrivalTime=22, serviceTime=1} Task{id=48, arrivalTime=22, serviceTime=2} 
+Coada 5: Task{id=31, arrivalTime=20, serviceTime=2} Task{id=6, arrivalTime=24, serviceTime=7} 
+
+Timp 25
+ Clientii care stau la coada: Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=5} 
+Coada 2: Task{id=44, arrivalTime=21, serviceTime=3} Task{id=12, arrivalTime=25, serviceTime=4} 
+Coada 3: Task{id=43, arrivalTime=19, serviceTime=1} Task{id=37, arrivalTime=22, serviceTime=1} Task{id=2, arrivalTime=25, serviceTime=1} Task{id=35, arrivalTime=25, serviceTime=3} 
+Coada 4: Task{id=7, arrivalTime=22, serviceTime=1} Task{id=48, arrivalTime=22, serviceTime=2} Task{id=40, arrivalTime=25, serviceTime=4} 
+Coada 5: Task{id=31, arrivalTime=20, serviceTime=1} Task{id=6, arrivalTime=24, serviceTime=7} 
+
+Timp 26
+ Clientii care stau la coada: Task{id=26, arrivalTime=27, serviceTime=7}Task{id=41, arrivalTime=27, serviceTime=1}Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=4} 
+Coada 2: Task{id=44, arrivalTime=21, serviceTime=2} Task{id=12, arrivalTime=25, serviceTime=4} 
+Coada 3: Task{id=37, arrivalTime=22, serviceTime=1} Task{id=2, arrivalTime=25, serviceTime=1} Task{id=35, arrivalTime=25, serviceTime=3} 
+Coada 4: Task{id=48, arrivalTime=22, serviceTime=2} Task{id=40, arrivalTime=25, serviceTime=4} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=7} 
+
+Timp 27
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=3} Task{id=26, arrivalTime=27, serviceTime=7} 
+Coada 2: Task{id=44, arrivalTime=21, serviceTime=1} Task{id=12, arrivalTime=25, serviceTime=4} 
+Coada 3: Task{id=2, arrivalTime=25, serviceTime=1} Task{id=35, arrivalTime=25, serviceTime=3} Task{id=41, arrivalTime=27, serviceTime=1} 
+Coada 4: Task{id=48, arrivalTime=22, serviceTime=1} Task{id=40, arrivalTime=25, serviceTime=4} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=6} 
+
+Timp 28
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=2}Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=2} Task{id=26, arrivalTime=27, serviceTime=7} 
+Coada 2: Task{id=12, arrivalTime=25, serviceTime=4} 
+Coada 3: Task{id=35, arrivalTime=25, serviceTime=3} Task{id=41, arrivalTime=27, serviceTime=1} 
+Coada 4: Task{id=40, arrivalTime=25, serviceTime=4} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=5} 
+
+Timp 29
+ Clientii care stau la coada: Task{id=29, arrivalTime=30, serviceTime=5}Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=36, arrivalTime=21, serviceTime=1} Task{id=26, arrivalTime=27, serviceTime=7} 
+Coada 2: Task{id=12, arrivalTime=25, serviceTime=3} Task{id=3, arrivalTime=29, serviceTime=2} 
+Coada 3: Task{id=35, arrivalTime=25, serviceTime=2} Task{id=41, arrivalTime=27, serviceTime=1} 
+Coada 4: Task{id=40, arrivalTime=25, serviceTime=3} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=4} 
+
+Timp 30
+ Clientii care stau la coada: Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=7} 
+Coada 2: Task{id=12, arrivalTime=25, serviceTime=2} Task{id=3, arrivalTime=29, serviceTime=2} 
+Coada 3: Task{id=35, arrivalTime=25, serviceTime=1} Task{id=41, arrivalTime=27, serviceTime=1} Task{id=29, arrivalTime=30, serviceTime=5} 
+Coada 4: Task{id=40, arrivalTime=25, serviceTime=2} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=3} 
+
+Timp 31
+ Clientii care stau la coada: Task{id=16, arrivalTime=32, serviceTime=7}Task{id=39, arrivalTime=32, serviceTime=3}Task{id=45, arrivalTime=32, serviceTime=3}Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=6} 
+Coada 2: Task{id=12, arrivalTime=25, serviceTime=1} Task{id=3, arrivalTime=29, serviceTime=2} 
+Coada 3: Task{id=41, arrivalTime=27, serviceTime=1} Task{id=29, arrivalTime=30, serviceTime=5} 
+Coada 4: Task{id=40, arrivalTime=25, serviceTime=1} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=2} 
+
+Timp 32
+ Clientii care stau la coada: Task{id=21, arrivalTime=33, serviceTime=1}Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=5} 
+Coada 2: Task{id=3, arrivalTime=29, serviceTime=2} Task{id=45, arrivalTime=32, serviceTime=3} 
+Coada 3: Task{id=29, arrivalTime=30, serviceTime=5} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=7} 
+Coada 5: Task{id=6, arrivalTime=24, serviceTime=1} Task{id=39, arrivalTime=32, serviceTime=3} 
+
+Timp 33
+ Clientii care stau la coada: Task{id=9, arrivalTime=34, serviceTime=3}Task{id=15, arrivalTime=34, serviceTime=7}Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=4} 
+Coada 2: Task{id=3, arrivalTime=29, serviceTime=1} Task{id=45, arrivalTime=32, serviceTime=3} 
+Coada 3: Task{id=29, arrivalTime=30, serviceTime=4} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=6} 
+Coada 5: Task{id=39, arrivalTime=32, serviceTime=3} Task{id=21, arrivalTime=33, serviceTime=1} 
+
+Timp 34
+ Clientii care stau la coada: Task{id=50, arrivalTime=35, serviceTime=2}Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=3} Task{id=9, arrivalTime=34, serviceTime=3} 
+Coada 2: Task{id=45, arrivalTime=32, serviceTime=3} Task{id=15, arrivalTime=34, serviceTime=7} 
+Coada 3: Task{id=29, arrivalTime=30, serviceTime=3} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=5} 
+Coada 5: Task{id=39, arrivalTime=32, serviceTime=2} Task{id=21, arrivalTime=33, serviceTime=1} 
+
+Timp 35
+ Clientii care stau la coada: Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=2} Task{id=9, arrivalTime=34, serviceTime=3} 
+Coada 2: Task{id=45, arrivalTime=32, serviceTime=2} Task{id=15, arrivalTime=34, serviceTime=7} 
+Coada 3: Task{id=29, arrivalTime=30, serviceTime=2} Task{id=50, arrivalTime=35, serviceTime=2} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=4} 
+Coada 5: Task{id=39, arrivalTime=32, serviceTime=1} Task{id=21, arrivalTime=33, serviceTime=1} 
+
+Timp 36
+ Clientii care stau la coada: Task{id=25, arrivalTime=37, serviceTime=1}Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=26, arrivalTime=27, serviceTime=1} Task{id=9, arrivalTime=34, serviceTime=3} 
+Coada 2: Task{id=45, arrivalTime=32, serviceTime=1} Task{id=15, arrivalTime=34, serviceTime=7} 
+Coada 3: Task{id=29, arrivalTime=30, serviceTime=1} Task{id=50, arrivalTime=35, serviceTime=2} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=3} 
+Coada 5: Task{id=21, arrivalTime=33, serviceTime=1} 
+
+Timp 37
+ Clientii care stau la coada: Task{id=24, arrivalTime=38, serviceTime=6}Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=9, arrivalTime=34, serviceTime=3} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=7} 
+Coada 3: Task{id=50, arrivalTime=35, serviceTime=2} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=2} 
+Coada 5: Task{id=25, arrivalTime=37, serviceTime=1} 
+
+Timp 38
+ Clientii care stau la coada: Task{id=13, arrivalTime=39, serviceTime=4}Task{id=14, arrivalTime=39, serviceTime=3}Task{id=18, arrivalTime=39, serviceTime=4}Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=9, arrivalTime=34, serviceTime=2} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=6} 
+Coada 3: Task{id=50, arrivalTime=35, serviceTime=1} 
+Coada 4: Task{id=16, arrivalTime=32, serviceTime=1} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=6} 
+
+Timp 39
+ Clientii care stau la coada: Task{id=38, arrivalTime=40, serviceTime=7}
+Coada 1: Task{id=9, arrivalTime=34, serviceTime=1} Task{id=18, arrivalTime=39, serviceTime=4} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=5} 
+Coada 3: Task{id=13, arrivalTime=39, serviceTime=4} 
+Coada 4: Task{id=14, arrivalTime=39, serviceTime=3} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=5} 
+
+Timp 40
+ Clientii care stau la coada: 
+Coada 1: Task{id=18, arrivalTime=39, serviceTime=4} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=4} 
+Coada 3: Task{id=13, arrivalTime=39, serviceTime=3} 
+Coada 4: Task{id=14, arrivalTime=39, serviceTime=2} Task{id=38, arrivalTime=40, serviceTime=7} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=4} 
+
+Timp 41
+ Clientii care stau la coada: 
+Coada 1: Task{id=18, arrivalTime=39, serviceTime=3} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=3} 
+Coada 3: Task{id=13, arrivalTime=39, serviceTime=2} 
+Coada 4: Task{id=14, arrivalTime=39, serviceTime=1} Task{id=38, arrivalTime=40, serviceTime=7} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=3} 
+
+Timp 42
+ Clientii care stau la coada: 
+Coada 1: Task{id=18, arrivalTime=39, serviceTime=2} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=2} 
+Coada 3: Task{id=13, arrivalTime=39, serviceTime=1} 
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=7} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=2} 
+
+Timp 43
+ Clientii care stau la coada: 
+Coada 1: Task{id=18, arrivalTime=39, serviceTime=1} 
+Coada 2: Task{id=15, arrivalTime=34, serviceTime=1} 
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=6} 
+Coada 5: Task{id=24, arrivalTime=38, serviceTime=1} 
+
+Timp 44
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=5} 
+Coada 5: Casa inchisa!
+
+Timp 45
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=4} 
+Coada 5: Casa inchisa!
+
+Timp 46
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=3} 
+Coada 5: Casa inchisa!
+
+Timp 47
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=2} 
+Coada 5: Casa inchisa!
+
+Timp 48
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Task{id=38, arrivalTime=40, serviceTime=1} 
+Coada 5: Casa inchisa!
+
+Timp 49
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 50
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 51
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 52
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 53
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 54
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 55
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 56
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 57
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 58
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Timp 59
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+Coada 3: Casa inchisa!
+Coada 4: Casa inchisa!
+Coada 5: Casa inchisa!
+
+Avarage waiting time: 4.880000114440918
+Avarage service time: 4.0
+Peak hour: 25

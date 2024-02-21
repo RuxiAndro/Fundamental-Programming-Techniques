@@ -1,0 +1,303 @@
+Timp 0
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 1
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 2
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 3
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 4
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 5
+ Clientii care stau la coada: Task{id=1, arrivalTime=6, serviceTime=4}Task{id=2, arrivalTime=6, serviceTime=3}Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 6
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=1, arrivalTime=6, serviceTime=4} 
+Coada 2: Task{id=2, arrivalTime=6, serviceTime=3} 
+
+Timp 7
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=1, arrivalTime=6, serviceTime=3} 
+Coada 2: Task{id=2, arrivalTime=6, serviceTime=2} 
+
+Timp 8
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=1, arrivalTime=6, serviceTime=2} 
+Coada 2: Task{id=2, arrivalTime=6, serviceTime=1} 
+
+Timp 9
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=1, arrivalTime=6, serviceTime=1} 
+Coada 2: Casa inchisa!
+
+Timp 10
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 11
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 12
+ Clientii care stau la coada: Task{id=4, arrivalTime=13, serviceTime=2}Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 13
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=4, arrivalTime=13, serviceTime=2} 
+Coada 2: Casa inchisa!
+
+Timp 14
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Task{id=4, arrivalTime=13, serviceTime=1} 
+Coada 2: Casa inchisa!
+
+Timp 15
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 16
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 17
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 18
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 19
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 20
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 21
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 22
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 23
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 24
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 25
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 26
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 27
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 28
+ Clientii care stau la coada: Task{id=3, arrivalTime=29, serviceTime=3}
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 29
+ Clientii care stau la coada: 
+Coada 1: Task{id=3, arrivalTime=29, serviceTime=3} 
+Coada 2: Casa inchisa!
+
+Timp 30
+ Clientii care stau la coada: 
+Coada 1: Task{id=3, arrivalTime=29, serviceTime=2} 
+Coada 2: Casa inchisa!
+
+Timp 31
+ Clientii care stau la coada: 
+Coada 1: Task{id=3, arrivalTime=29, serviceTime=1} 
+Coada 2: Casa inchisa!
+
+Timp 32
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 33
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 34
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 35
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 36
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 37
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 38
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 39
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 40
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 41
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 42
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 43
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 44
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 45
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 46
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 47
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 48
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 49
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 50
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 51
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 52
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 53
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 54
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 55
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 56
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 57
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 58
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Timp 59
+ Clientii care stau la coada: 
+Coada 1: Casa inchisa!
+Coada 2: Casa inchisa!
+
+Avarage waiting time: 3.0
+Avarage service time: 3.0
+Peak hour: 6
