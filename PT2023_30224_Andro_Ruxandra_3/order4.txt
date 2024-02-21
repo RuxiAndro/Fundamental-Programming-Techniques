@@ -1,0 +1,4 @@
+Client: Kati
+Produs: cafeaaaaaa
+Cantitate: 3
+Pret: 3000 RON

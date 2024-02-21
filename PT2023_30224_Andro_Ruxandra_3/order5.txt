@@ -1,0 +1,4 @@
+Client: Marco
+Produs: salata
+Cantitate: 2
+Pret: 24 RON

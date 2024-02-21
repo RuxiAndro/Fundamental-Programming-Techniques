@@ -1,0 +1,4 @@
+Client: Giorgica
+Produs: cafeaaaaaa
+Cantitate: 4
+Pret: 4000 RON
